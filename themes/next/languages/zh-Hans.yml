@@ -45,8 +45,8 @@ page:
   tags: 标签
 
 footer:
-  powered: "由 %s 强力驱动"
-  theme: 主题
+  powered: "paozi"
+  theme: theme
 
 counter:
   tag_cloud:
@@ -80,9 +80,10 @@ cheers:
   good: 很好
   great: 非常好
   excellent: 太棒了
+  
 
 keep_on: 继续努力。
-
+Donate: 拉拉
 symbol:
   comma: '， '
   period: '。 '
